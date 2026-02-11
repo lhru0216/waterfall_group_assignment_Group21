@@ -6,9 +6,9 @@ This project is a **Library Management System** developed to simulate the **Trad
 This repository serves as the central documentation and codebase, organized strictly according to the sequential phases of the Waterfall model.
 
 ## 👥 Group Members
-* **Student 1:** [Nishadhi Bandara] (ID: [23FIS0657])
-* **Student 2:** [Imashi Awarjana] (ID: [23FIS0675])
-* **Student 3:** [Lahiru Madhushanka] (ID: [23FIS0744])
+* **Student 1:** Imashi Awarjana (ID: 23FIS0675) (Captain)
+* **Student 2:** Nishadhi Bandara (ID: 23FIS0657)  
+* **Student 3:** Lahiru Madhushanka (ID: 23FIS0744)
 
 ---
 
